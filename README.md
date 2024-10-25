@@ -50,6 +50,10 @@ This includes every asset store package listed in the Prerequisite Packages sect
 However, I also used Adam Myhre's [Event Bus](https://github.com/adammyhre/Unity-Event-Bus) and [Service Locator](https://github.com/adammyhre/Unity-Service-Locator)
 An important note: None of the third party assets were used to assist in any of the patterns created. If they do exist in the scripts I mention, they are there for the purpose of the project, not to assist in the patterns.
 
+# Video Report
+https://youtu.be/8KefkCAfrqM
+The required "first slide" information is available in the description of the video
+
 # Interactive Media Scenario Information
 Ostinato is a roguelike rhythm game where you cast magical spells in the form of musical rhythms to fight corrupted enemies
 These magical spells are called incantations, made up of a cast pattern and an attack pattern
