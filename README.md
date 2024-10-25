@@ -98,7 +98,7 @@ I used a builder implementation to create the incantation. I used it over a defa
 I used this for the **Incantation** (Assets/_Project/_Scripts/Incantation/Incantation.cs) class. The **Incantation** class contains a factory/builder that creates the incantation. If you look inside the script, I also enforced a private constructor to ensure that the incantation is created through the factory.
 For now, the incantations are being made beforehand in the **Configuration System** (Assets/_Project/_Scripts/Incantation/IncantationConfig.cs)
 ## Observer
-My observer implementation is located at Assets/_Project/_Scripts/Input System/Player/PlayerInputProcessor.cs)
+My observer implementation is located at (Assets/_Project/_Scripts/Input System/Player/PlayerInputProcessor.cs)
 I used this pattern mainly in the **Casting System**, for input receiving.
 ## UML
 ![Observer.png](Assets%2F_Project%2FUML%2FObserver.png)
